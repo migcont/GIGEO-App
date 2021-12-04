@@ -1,0 +1,28 @@
+.hero{
+height:  500px;
+background-image:url("../img/image-banner.png");
+background-position: bottom;
+background-repeat: no-repeats;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.img-hero{
+
+}
+
+.yuki img{
+  box-sizing: border-box;
+  width: 10%;
+  display: block;
+  border-radius: 50%;
+  float: left;
+}
+
+.yuki h1{
+float: left;
+}
+
+.yuki h4{
+float: left;
+}
