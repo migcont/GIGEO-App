@@ -40,19 +40,20 @@ header {
 
 .yuki img {
   box-sizing: border-box;
-  width: 10%;
+  width: 9vw;
   display: block;
   border-radius: 50%;
   float: left;
 }
 
-.--yuki {
-  display: inline-block;
-  --float: left;
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
-.yuki h4 {
-  float: left;
+.--yuki {
+  display: inline-block;
 }
 
 .btn-rojo {
