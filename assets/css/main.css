@@ -46,8 +46,9 @@ header {
   float: left;
 }
 
-.yuki h1 {
-  float: left;
+.--yuki {
+  display: inline-block;
+  --float: left;
 }
 
 .yuki h4 {
